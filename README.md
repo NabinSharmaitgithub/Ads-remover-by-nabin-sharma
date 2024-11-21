@@ -4,10 +4,8 @@ Best android patch with several patches including regex for ads, analytics, etc
 file that helps to remove ads from almost all the apps 
 
 
-<img src="https://www.google.com/search?client=ms-android-xiaomi-terr1-rso2&sca_esv=41abccaec8fca31d&q=logo+for+ads+removing+app&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3JyJJclJuzBPl12qJyPx7ESJehObpS5jg6J88CCM-RK72qUv4GOvBp3LxAsC-35pUAVd1mVJIz_kJEl7OpW0Y42qduZyCIUQvYXF-Rlml4RoqFbNWi5tYNUImDyWlZNODzhRu2wrxbBepXslH0S2cg_2ElVWx&sa=X&ved=2ahUKEwjg17Ls-O2JAxU4dmwGHRlaO6oQtKgLegQIExAB&biw=360&bih=663&dpr=2#vhid=of323WmqUrptMM&vssid=mosaic&ip=1"/>
 
-
-
+<img src="logo.png"/>
 
 
 
