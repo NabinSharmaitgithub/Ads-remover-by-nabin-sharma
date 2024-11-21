@@ -5,7 +5,7 @@ file that helps to remove ads from almost all the apps
 
 
 
-<img src="logo.png"/>
+<img src="Logo.png"/>
 
 
 
